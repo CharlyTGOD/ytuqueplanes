@@ -3,3 +3,90 @@
 	background: url("img/viaje-seguro.jpg") no-repeat center center;
 	height: 300px;
 }
+.menu {
+
+	list-style: none;
+	
+	
+}
+.menu li{
+
+	display: inline-block;
+	padding: 20px;
+	padding-right: 40px;
+	background: url(img/450px-Flag_of_Montferrat.svg.png);
+	
+
+
+}
+.redessociales {
+
+	padding-left: 1000px;
+	}
+
+.contenido{
+
+	
+	text-align: center;
+
+}
+.contenido div{
+
+	padding-left: 40;
+
+}
+
+.banner{
+	padding-top: 200px;
+	padding-right: 450px;
+	background: url(img/fondo-portada.jpg);
+	height: 500px;
+	color: #fffafa;
+	font-style: bold; 
+
+}
+
+.descubre-amazonas{
+
+	color: #DD1B1B;
+	padding-bottom: 20px;
+}
+.parrafo-uno div{
+
+	text-align: center;
+}
+.promociones-insuperables{
+	color: #DD1B1B;;
+}
+
+.disfruta-deunviajeseguro{
+
+	color:#fff;
+	padding:50px;
+	padding-left: 40px;
+	list-style: none;
+	color:#FFFFFF;
+
+}
+.parrafo-2{
+	color:#FFFFFF;
+
+}
+.col-md-3{
+
+	list-style: none;
+
+}
+.iconos div {
+ 
+	padding: 10px;
+}
+.promociones div{
+	
+	border:1px SOLID #3851AC;
+	padding-bottom: 15px;
+}
+
+
+	
+}
